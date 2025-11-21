@@ -11,9 +11,6 @@ Description: Unified repository for the R&DD (RASD and DD) and I&T (Implementati
 # Best Bike Paths – RASD & DD Checklist
 Team: Mohammad & Hamid
 
-> Tip: Each of you can filter by your name and tick items as you complete them.  
-> Mark tasks as done by changing `[ ]` to `[x]`.
-
 ---
 
 ## 0. Shared Setup (before deep work)
